@@ -28,7 +28,7 @@ int main(void)
   myself.age = 25;
   myself.favorite_language_programming = C;
   myself.native_from = Brazil;
-  myself.other_spoken_language = Enlish;
+  myself.other_spoken_language = English;
 
   return (0);
 }
