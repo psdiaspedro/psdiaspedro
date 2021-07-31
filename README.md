@@ -11,19 +11,26 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">a little bit about myself...  
 
 ```C
-typedef struct myself = {
+typedef struct person{
   char name[50];
   int age;
-  char favorite_Language[];
-}
+  char favorite_language_programming[];
+  char native_from[];
+  char other_spoken_language[];
+} Life;
 
 int main(void)
 {
+  puts("Go Big or Go Home");
+  
+  Life myself;
   strcpy(myself.name, Pedro);
   myself.age = 25;
-  myself.favorite_language = C;
+  myself.favorite_language_programming = C;
+  myself.native_from = Brazil;
+  myself.other_spoken_language = Enlish;
+
   return (0);
-  puts("Go Big or Go Home");
 }
 ```
 
