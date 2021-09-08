@@ -36,3 +36,4 @@ int main(void)
 ### 42's Projects Already Graded 
 [![](./icons/libft.png)](https://github.com/psdiaspedro/libft-42Cursus)
 [![](./icons/get_next_line.png)](https://github.com/psdiaspedro/GNL-42Cursus)
+[![](./icons/ft_printfe.png)](https://github.com/psdiaspedro/printf-42Cursus)
