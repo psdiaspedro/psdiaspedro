@@ -41,3 +41,5 @@ int main(void)
 [![](./icons/so_longm.png)](https://github.com/psdiaspedro/soLong-42Cursus)
 [![](./icons/minitalkm.png)](https://github.com/psdiaspedro/minitalk-42Cursus)
 [![](./icons/push_swape.png)](https://github.com/psdiaspedro/pushSwap-42Cursus)
+[![](./icons/minishell.png)](https://github.com/psdiaspedro/minishell-42Cursus)
+
