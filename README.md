@@ -24,11 +24,11 @@ int main(void)
   puts("Go Big or Go Home");
 
   Life myself;
-  myself->name = strdup("Pedro Dias");
-  myself->age = 25;
-  myself->favorite_language_programming = strdup("C");
-  myself->native_from = strdup("Brazil");
-  myself->spoken_languages = strdup("Portuguese & English");
+  myself.name = strdup("Pedro Dias");
+  myself.age = 25;
+  myself.favorite_language_programming = strdup("C");
+  myself.native_from = strdup("Brazil");
+  myself.spoken_languages = strdup("Portuguese & English");
 
   return (0);
 }
