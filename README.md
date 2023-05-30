@@ -1,6 +1,6 @@
 <h1> Hello, I'm Pedro Dias!</h1>
 <img align='right' src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="300">
-<p><em>Software engineering student from <a href="https://www.42sp.org.br/">42 São Paulo</a><img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="30"></br>I LOVE writing code, and solving problems.</a> <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
+<p><em>I am software engineer @ <a href="https://www.itau.com.br/">Itau Bank</a><img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="30"></br>I LOVE writing code, and solving problems.</a> <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
 </em></p>
 
 [![Twitter: _pedroadias](https://img.shields.io/twitter/follow/_pedroadias?style=social)](https://twitter.com/_pedroadias)
