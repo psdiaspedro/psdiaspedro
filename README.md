@@ -10,29 +10,39 @@
 
 ### A little bit about myself...
 
-```C
-typedef struct person{
-  char *name;
-  int age;
-  char *favorite_language_programming;
-  char *native_from;
-  char *other_spoken_language;
-} Life;
+```cpp
+#include <iostream>
+#include <string>
 
-int main(void)
-{
-  puts("Go Big or Go Home");
+using namespace std;
 
-  Life myself;
-  myself.name = strdup("Pedro Dias");
-  myself.age = 25;
-  myself.favorite_language_programming = strdup("C");
-  myself.native_from = strdup("Brazil");
-  myself.spoken_languages = strdup("Portuguese & English");
+class Person {
+  public:
+    string          name;
+    int             age;
+    string          nativeFrom;
+    vector<string>  spokenLanguages
+    vector<string>  familiarProgmmingLanguages;
+};
+
+int main(void) {
+  cout << "Go Big or Go Home" << endl;
+
+  Person myself;
+  myself.name = "Pedro Dias";
+  myself.age = 27;
+  myself.spokenLanguages.push_back("Portuguese - Native");
+  myself.spokenLanguages.push_back("English - Fluent");
+  myself.familiarProgmmingLanguagespush_back("C");
+  myself.familiarProgmmingLanguagespush_back("C++");
+  myself.familiarProgmmingLanguagespush_back("Python");
+  myself.familiarProgmmingLanguagespush_back("Java");
+  myself.familiarProgmmingLanguagespush_back("JavaScript / Typescript");
 
   return (0);
 }
 ```
+
 ### 42's Projects Already Graded 
 [![](./icons/libft.png)](https://github.com/psdiaspedro/libft-42Cursus)
 [![](./icons/get_next_line.png)](https://github.com/psdiaspedro/GNL-42Cursus)
